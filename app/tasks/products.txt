@@ -1,0 +1,42 @@
+# one per line
+# empty or beginning with "#" indicates to ignore the line
+
+calculator | Texas Instruments TI-84 Graphing Calculator | 109 | ti-84-calc.jpg
+voice | Olympus WS-210S Digital Voice Recorder | 52.9 | olympus-ws-210s-voicerec.jpg
+voice | Sony M470 Microcassette Recorder | 29.95 | sony-m470-macrorec.jpg
+video-audio | Aluratek USB Internet Radio Jukebox | 19.95 | aluratek-usb-jukebox.jpg
+network | Netgear Wireless-N Gigabit Router | 99.9 | netgear-n-gigrouter.jpg
+network | Linksys Wireless-G Access Point | 79.9 | linksys-wireless-g-ap.jpg
+printer | Epson Stylus C88+ Inkjet Printer | 111.95 | epson-stylus-c88-printer.jpg
+calculator | HP 10bII+ Financial Calculator | 38.49 | hp-10bII+-financial-calculator.jpg
+printer | HP Officejet Pro 6100 ePrinter | 99.99 | hp-officejet-pro-6100-eprinter.jpg
+copy-scan | VuPoint Magic Wand Portable Scanner | 69.99 | vupoint-magic-wand-scanner.jpg
+calculator | Victor 12-Digit Executive Desktop Financial Calculator | 24.99 | victor-executive-desktop-calculator.jpg
+computer | UltraTab Jazz C925 9" Tablet | 99.99 | ultratab-jazz-c925-9in-tablet.jpg
+storage | Toshiba Canvio 3.0 Portable USB 3.0 Hard Drive 500GB | 69.99 | toshiba-canvio-3.0-portable-usb-hard-drive.jpg
+storage | Seagate Backup Plus 500GB External USB 3.0 Portable Hard Drive | 69.99 | seagate-500gb-external-usb-hard-drive.jpg
+video-audio | Cyber Acoustics CA-2880 USB-Powered Speaker | 16.79 | cyber-acoustics-2880-usb-speaker.jpg
+storage | SanDisk Cruzer 8GB USB 2.0 Flash Drive | 5.99 | sandisk-cruzer-8gb-usb-flash-drive.jpg
+video-audio | Samsung Smart Wi-Fi Built-In Blu-ray Player | 89.99 | samsung-smart-wi-fi-blu-ray-player.jpg
+voice |  Olympus Digital Voice Recorder | 39.99 | olympus-digital-voice-recorder.jpg
+voice | Sony Digital Voice Recorder | 49.99 | sony-digital-voice-recorder.jpg
+storage | SanDisk microSDHCTM 16GB Memory Card | 44.99 | sandisk-micro-sdhctm-16gb-card.jpg
+calculator | Sharp EL-738C Financial Calculator | 29.99 | sharp-el-738c-financial-calculator.jpg
+copy-scan | Canon Flatbed Color Image Scanner with Z-Lid Expansion Top | 54.98 | canon-flatbed-image-scanner-expansion-top.jpg
+video-audio | Logitech Z130 2-Piece Speaker System | 31.99 | logitech-z130-speaker-system.jpg
+computer | Logitech MK520 Wireless Keyboard and Mouse | 39.99 | logitech-mk520-wireless-keyboard-mouse.jpg
+printer | Brother HL-2240 Monochrome Laser Printer | 79.99 | brother-hl-2240-laser-printer.jpg
+voice | AT&T TL7600 DECT 6.0 Digital Cordless Headset | 69.99 | att-tl7600-digital-cordless-headset.jpg
+computer | HP W2072a 20" LED-Backlit LCD Monitor | 119.99 | hp-W2072a-20in-lcd-monitor.jpg
+video-audio | SanDisk - Sansa Clip+ 4GB* MP3 Player | 29.99 | sandisk-sansa-clip-4gb-mp3-player.jpg
+camera | Canon PowerShot A4000 IS 16.0-Megapixel Digital Camera | 109.99 | canon-powershot-a400-camera.jpg
+camera | Sony DSCW650/B 16.1Megapixel Digital Camera | 79.99 | sony-dscw650-digital-camera.jpg
+#
+# -- currently unused
+#
+video-audio | Ativa Mobil-IT Stereo Speaker Set | 19.99 | ativa-mobil-it-stereo-speaker-set.jpg
+video-audio | Mach Speed Eclipse 180G2 Series 4GB* Video MP3 Player | 29.99 | mach-speed-eclipse-180gw-video-mp3-player.jpg
+accessory | Fellowes Standard Monitor Riser | 19.99 | fellowes-standard-monitor-riser.jpg
+accessory | Allsop Monitor Stand Jr., Pewter | 22.29 | allsop-monitor-stand.jpg
+accessory | Targus APA31US 90-Watt AC Laptop Charger | 54.99 | targus-apa31US-laptop-charger.jpg
+accessory | Safco Underdesk Printer/Fax Stand | 69.99 | safco-underdesk-printer-fax-stand.jpg
